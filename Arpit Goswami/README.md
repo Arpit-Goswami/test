@@ -14,7 +14,7 @@ The CIFAR-10 dataset is a collection of images of 10 different classes like cars
 - tkinter
 
 # How to run 
-Run "gui.py" and make sure to have "image_classfier_model.h5" in your root directory.
+Run "image_classification.ipynb" then run "gui.py" and make sure to have "image_classfier_model.h5" in your root directory.
 
 # Results
 
